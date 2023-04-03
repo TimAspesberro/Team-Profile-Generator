@@ -26,7 +26,7 @@ THEN I exit the application, and the HTML is generated
 Mock-Up
 
 ## Description
-
+This project is a node.js command line application that takes in information about employees on a software engineering team and displays it on an HTML webpage. The application makes use of the inquirer package for a smooth interface to navigate the program. 
 
 ## Links
 Github link: https://github.com/TimAspesberro/Team-Profile-Generator
